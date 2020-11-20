@@ -1,0 +1,10 @@
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\obj\Debug\classesBasics.csproj.CoreCompileInputs.cache
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\obj\Debug\classesBasics.csprojAssemblyReference.cache
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kisho\source\repos\oopsPractice\ConsoleApp2\obj\Debug\classesBasics.csproj.CopyComplete
