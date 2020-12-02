@@ -55,6 +55,8 @@
     <Compile Include="FileE.cs" />
     <Compile Include="FileEx.cs" />
     <Compile Include="JsonExample.cs" />
+    <Compile Include="ListExample.cs" />
+    <Compile Include="P1NameProblem.cs" />
     <Compile Include="PolymorphismExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties.cs" />
